@@ -18,12 +18,14 @@ A modern, responsive landing page for a premium electronics company, featuring c
 ## 🚀 Getting Started
 Follow these steps to set up the project locally:
 1. Clone the repo:
+   ```bash
    git clone https://github.com/deadslowright/BANG-OLUFSEN-Landing-Page.git
    cd BANG-OLUFSEN-Landing-Page
-2. Install dependencies:
+3. Install dependencies:
    npm install
-3. Run the project:
+4. Run the project:
    npm start
+   ---
 
 Use Ctrl + C (or Cmd + C on macOS) in terminal to stop the dev server.
 
