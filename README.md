@@ -21,11 +21,12 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/deadslowright/BANG-OLUFSEN-Landing-Page.git
    cd BANG-OLUFSEN-Landing-Page
-3. Install dependencies:
+2. Install dependencies:
+   ```bash
    npm install
-4. Run the project:
+3. Run the project:
+   ```bash
    npm start
-   ---
 
 Use Ctrl + C (or Cmd + C on macOS) in terminal to stop the dev server.
 
